@@ -1,4 +1,4 @@
-<h3 align="center"> Hey 👋, I'm Tejesh!</h3>
+ <h3 align="center">Hey 👋, I'm Tejesh!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tejesh18" alt="Tejesh18" /> </p>
 
