@@ -30,7 +30,7 @@ I'm a 2nd year student pursuing Bachelors in Computer Science and Business Syste
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tejesh18&show_icons=true&include_all_commits=true&theme=radical&count_private=true">
 </a>
 <a href="https://github.com/Tejesh18/github-readme-stats"><br>
- <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejesh18&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787"/>
+ <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejesh18&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787"/>
 </p>
 <p align="center">
 
