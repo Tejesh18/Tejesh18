@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Tejesh Annavarapu <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px"></h1>
+<h1 align="center">Hey, I'm Tejesh Annavarapu <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tejesh18" alt="Tejesh18" /> </p>
 
