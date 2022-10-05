@@ -1,7 +1,5 @@
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+![Header](./https://github.com/Tejesh18/Tejesh18.github.io/blob/main/github-header-image%20(2).png)
   
 
 ### <div align="center">About Me!
@@ -20,7 +18,7 @@ I'm a 3rd year student pursuing Bachelors in Computer Science and Business Syste
 <br/>  
 
 
-## My Skill Set  
+ ## My Skill Set
 
 
 <div align="center">  
