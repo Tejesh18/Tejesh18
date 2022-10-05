@@ -1,8 +1,11 @@
 
-![Header](./https://github.com/Tejesh18/Tejesh18.github.io/blob/main/github-header-image%20(2).png)
+<div align="center">
+<img src="https://github.com/Tejesh18/Tejesh18.github.io/blob/main/Screenshot%20(10).png" align="center" style="width: 100%" />
+</div>  
   
+<br/>
 
-### <div align="center">About Me!
+## <div align="center">About Me!
 I'm a 3rd year student pursuing Bachelors in Computer Science and Business Systems 🎓 from Gokaraju Rangaraju Institute of Engineering and Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨.. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.</div>  
   
 
@@ -42,9 +45,6 @@ I'm a 3rd year student pursuing Bachelors in Computer Science and Business Syste
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Tejesh18" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/tejesh_1804" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
