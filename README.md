@@ -72,10 +72,6 @@ I'm a 3rd year student pursuing Bachelors in Computer Science and Business Syste
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31zrbcxxjryv7b6sylbuu4mnmihq&cover_image=true&theme=default&show_offline=false" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Tejesh18&&style=flat-square" align="center" />
 </div>  
