@@ -67,8 +67,7 @@ I'm a 3rd year student pursuing Bachelors in Computer Science and Business Syste
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->   
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
