@@ -13,6 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: Tejesh18/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://tejesh.hashnode.dev/"
+          feed_list: "https://dev.to/feed/gautamkrishnar,https://tejesh.hashnode.dev/"
+          
