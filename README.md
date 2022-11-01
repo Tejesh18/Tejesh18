@@ -62,14 +62,7 @@ I'm a 3rd year student pursuing Bachelors in Computer Science and Business Syste
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tejesh18&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->  
-
+ 
 <br/>  
 
 <div align="center">
