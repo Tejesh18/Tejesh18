@@ -68,12 +68,16 @@ I'm a 3rd year student pursuing Bachelors in Computer Science and Business Syste
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tejesh18&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
  
+
  
   
 
 <br/>  
 
 <div align="center"></div>
-<br />
+<br/>
+
+## Hacktoberfest Badges
+[![@tejesh18's Holopin board](https://holopin.me/tejesh18)](https://holopin.io/@tejesh18)
 
 
