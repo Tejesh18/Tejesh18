@@ -61,12 +61,5 @@
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tejesh18&show_icons=true&count_private=true&hide_border=true" />
-</div>  
-
----
-
 ## 🎖️ Hacktoberfest Badges  
 [![@tejesh18's Holopin board](https://holopin.me/tejesh18)](https://holopin.io/@tejesh18)
