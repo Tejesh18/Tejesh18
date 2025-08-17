@@ -15,9 +15,7 @@
 🌍 Always open to collaborating on **open-source projects** and innovative research  
 📫 Reach me at **tejeshannavarapu1804@gmail.com**  
 
----
-
-## 🚀 Tech Stack  
+--- 
 
 ## 🛠️ Skills  
 
