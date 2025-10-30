@@ -10,7 +10,7 @@
 
 ## <div align="center">👋 About Me</div>  
 
-🎓 Master’s in Computer Science @ **Virginia Commonwealth University (VCU)** — expected **May 2026**  
+🎓 Master’s in Computer Science @ **Virginia Commonwealth University (VCU)** — expected **December 2025**  
 💡 Passionate about **Applied AI, NLP, and Data Engineering**, with hands-on experience in **LLM integration, RAG systems, and data privacy tools**  
 ⚙️ Currently building **Retrieval-Augmented Agents** and exploring **LLM deployment pipelines** for secure AI applications  
 🌍 Open to collaborations in **AI-driven products, cloud-based analytics, and research**  
